@@ -62,7 +62,7 @@
     "src"
   ],
   "dependencies": {
-    "inputmask": "5.0.7",
+    "inputmask": "5.0.8",
     "lodash.flowright": "3.5.0"
   },
   "bundleDependencies": [
