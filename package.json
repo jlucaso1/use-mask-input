@@ -1,6 +1,6 @@
 {
   "name": "use-mask-input",
-  "version": "3.0.6",
+  "version": "3.0.8",
   "description": "A react Hook for build elegant input masks. Compatible with React Hook Form",
   "author": "eduardoborges",
   "license": "MIT",
@@ -62,7 +62,7 @@
     "src"
   ],
   "dependencies": {
-    "inputmask": "5.0.8",
+    "inputmask": "https://github.com/RobinHerbots/Inputmask",
     "lodash.flowright": "3.5.0"
   },
   "bundleDependencies": [
